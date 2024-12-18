@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "星球旅行幸运数", "星球旅行幸运数.vcxproj", "{A7C109C7-8A59-4F74-9AB3-AA65C8015E09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C109C7-8A59-4F74-9AB3-AA65C8015E09}.Debug|x64.ActiveCfg = Debug|x64
+		{A7C109C7-8A59-4F74-9AB3-AA65C8015E09}.Debug|x64.Build.0 = Debug|x64
+		{A7C109C7-8A59-4F74-9AB3-AA65C8015E09}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7C109C7-8A59-4F74-9AB3-AA65C8015E09}.Debug|x86.Build.0 = Debug|Win32
+		{A7C109C7-8A59-4F74-9AB3-AA65C8015E09}.Release|x64.ActiveCfg = Release|x64
+		{A7C109C7-8A59-4F74-9AB3-AA65C8015E09}.Release|x64.Build.0 = Release|x64
+		{A7C109C7-8A59-4F74-9AB3-AA65C8015E09}.Release|x86.ActiveCfg = Release|Win32
+		{A7C109C7-8A59-4F74-9AB3-AA65C8015E09}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC2DF35-92D4-425D-9154-602D640C43E5}
+	EndGlobalSection
+EndGlobal
